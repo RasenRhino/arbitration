@@ -172,7 +172,7 @@ forge test -vvvv
 6. **No Juror Coherence:** Jurors can be selected multiple times across disputes
 7. **Permanent Minority Punishment:** Minority voters permanently lose stake, creating the "virtuous contrarian" problem (see [Proposal.md](./Proposal.md) for a potential solution)
 
-## Gas Optimization Opportunities (maybe , I asked gpt for these, and this cool readme as well)
+## Gas Optimization Opportunities (maybe , I asked gpt for these, and this very coherant README as well)
 
 - Use tighter variable packing in structs
 - Cache array lengths in loops
