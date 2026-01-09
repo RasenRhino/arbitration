@@ -42,7 +42,6 @@ When juror withdraws PNK stake:
 | Aspect | Kleros (Current) | Dual-Token System |
 |--------|------------------|-------------------|
 | **Token Loss** | Permanent | Recoverable |
-| **Reputation** | Binary (win/lose) | Graduated penalties |
 | **Exit Impact** | Tokens lost forever | Triggers validation |
 | **Contrarian Support** | Punishes all dissent | Allows proven recovery |
 | **System Confidence** | Not tracked | Persistent decoherence metric |
