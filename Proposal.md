@@ -44,7 +44,7 @@ When juror withdraws PNK stake:
 | **Token Loss** | Permanent | Recoverable |
 | **Exit Impact** | Tokens lost forever | Triggers validation |
 | **Contrarian Support** | Punishes all dissent | Allows proven recovery |
-| **System Confidence** | Not tracked | Persistent decoherence metric |
+| **System Confidence** | trackable but not salient | Persistent decoherence metric |
 
 ## Novel Properties
 
